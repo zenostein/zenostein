@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zenostein
-That's all.
+- That's all.
 
 <!---
 zenostein/zenostein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
